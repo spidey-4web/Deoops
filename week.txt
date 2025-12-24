@@ -1,1 +1,3 @@
 this is first  git text program
+we are exploring git and git hub commands
+
